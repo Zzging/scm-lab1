@@ -1,5 +1,5 @@
 # scm-lab1
-lab1
+lab1 dev
 
 
-Hollo ging chanikan00
+Hello ging chanikan00
